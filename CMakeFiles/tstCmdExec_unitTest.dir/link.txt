@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tstCmdExec_unitTest.dir/unit_tests/tstCmdExec_unitTest.cpp.o CMakeFiles/tstCmdExec_unitTest.dir/src/TestCommand.cpp.o  -o tstCmdExec_unitTest  lib/libgtest.a -lpthread 
