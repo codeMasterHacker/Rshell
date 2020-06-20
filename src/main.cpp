@@ -7,7 +7,7 @@ int main()
 
     while (1)
     {
-        cout << "$$ ";
+        cout << ">: ";
         getline(cin, userInput);
 
         if (userInput.empty())
